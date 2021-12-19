@@ -6,11 +6,11 @@ Data aplikasi Skiljek
 
 Relasi One to One
 
-'''javascript
+```
     {
         "_id": "ObjectId('AAAA')",
         "fullName": "Nurrahmi Ardani Risqy",
         "email": "nurrahmiardani@gmail.com",
         "phoneNumber": "01231324343"
     }
-'''
+```
