@@ -6,7 +6,7 @@ Data aplikasi Skiljek
 
 Relasi One to One
 
-```
+``` javascript
     {
         "_id": "ObjectId('AAAA')",
         "fullName": "Nurrahmi Ardani Risqy",
