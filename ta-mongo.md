@@ -49,24 +49,24 @@ Relasi One to Many
 
 ```javascript
     {
-  "_id": "ObjectId('AAAA')",
-  "productName": "Kaos Polos",
-  "brandName": "SkilShirt",
-  "variants": [
-    {
-      "variantName": "Kaos Polos Hitam",
-      "color": "Hitam",
-      "quantity": 12,
-      "price": "Rp 99.000"
-    },
-    {
-      "variantName": "Kaos Polos Navy",
-      "color": "Navy",
-      "quantity": 10,
-      "price": "Rp 99.000"
+        "_id": "ObjectId('AAAA')",
+        "productName": "Kaos Polos",
+        "brandName": "SkilShirt",
+        "variants": [
+            {
+            "variantName": "Kaos Polos Hitam",
+            "color": "Hitam",
+            "quantity": 12,
+            "price": "Rp 99.000"
+            },
+            {
+            "variantName": "Kaos Polos Navy",
+            "color": "Navy",
+            "quantity": 10,
+            "price": "Rp 99.000"
+            }
+        ]
     }
-  ]
-}
 ```
 
 # Soal 4
